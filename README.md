@@ -13,7 +13,7 @@ A lo largo de esta documentación, encontrarás procedimientos paso a paso organ
 * 🔒 **III. Políticas de Seguridad y Permisos Avanzados:** Implementación de permisos octales/simbólicos y configuración de atributos especiales como **SGID, SUID y Sticky Bit**.
 * 🕵️ **IV. Auditoría, Monitorización y Mantenimiento:** Rastreo de actividad de usuarios, control de sesiones en tiempo real y auditorías del sistema de archivos.
 * 🛠️ **V. Prácticas de Consolidación:** Resolución de escenarios y simulaciones reales de reestructuración de permisos.
-* 🛡️ **VI. Seguridad (ACLs):** Configuración de Listas de Control de Acceso para una gestión granular y avanzada de permisos.
+* 🛡️ **VI. Seguridad (ACLs):** Configuración de Listas de Control de Acceso para una gestión avanzada de permisos.
 
 ---
 
