@@ -2,6 +2,8 @@
 
 Este proyecto es una guía detallada y práctica centrada en las prácticas de configuración, seguridad y auditoría para un entorno **Ubuntu Server**.
 
+🔗 **[Puedes ver el contenido directamente en Notion aquí](https://nebulous-distance-d7b.notion.site/Manual-de-Administraci-n-de-Infraestructura-Linux-31a026a98951814780efcbd036a2d963?source=copy_link)**
+
 ---
 
 ## 📑 Contenido del Manual
